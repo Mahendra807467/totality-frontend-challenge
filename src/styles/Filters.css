@@ -1,0 +1,12 @@
+.filters {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.filters input, .filters select {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+};
